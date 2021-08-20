@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://ampacheco.github.io/doks-child-theme/sitemap.xml
+Sitemap: https://ampacheco.github.io/dummy-ca/sitemap.xml
