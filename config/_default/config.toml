@@ -1,5 +1,5 @@
-baseurl = "/"
-canonifyURLs = false
+# baseurl = "/"
+# canonifyURLs = false
 disableAliases = true
 disableHugoGeneratorInject = true
 enableEmoji = true
